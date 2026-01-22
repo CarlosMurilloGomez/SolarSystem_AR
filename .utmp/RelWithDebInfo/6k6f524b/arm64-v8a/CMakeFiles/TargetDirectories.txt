@@ -1,0 +1,5 @@
+C:/Users/b15-06t2/Desktop/ProyectosUnity/SolarSystem_AR/.utmp/RelWithDebInfo/6k6f524b/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/b15-06t2/Desktop/ProyectosUnity/SolarSystem_AR/.utmp/RelWithDebInfo/6k6f524b/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/b15-06t2/Desktop/ProyectosUnity/SolarSystem_AR/.utmp/RelWithDebInfo/6k6f524b/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/b15-06t2/Desktop/ProyectosUnity/SolarSystem_AR/.utmp/RelWithDebInfo/6k6f524b/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/b15-06t2/Desktop/ProyectosUnity/SolarSystem_AR/.utmp/RelWithDebInfo/6k6f524b/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

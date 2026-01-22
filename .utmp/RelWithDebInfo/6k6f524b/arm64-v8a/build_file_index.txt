@@ -1,0 +1,2 @@
+C:\Users\b15-06t2\Desktop\ProyectosUnity\SolarSystem_AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\b15-06t2\Desktop\ProyectosUnity\SolarSystem_AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
