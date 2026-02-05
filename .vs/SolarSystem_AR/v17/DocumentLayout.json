@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\",
+  "WorkspaceRootPath": "C:\\UnityGithub\\SolarSystem_AR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13798A67-88EE-10F2-BC4D-CCE90D6A3519}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|c:\\users\\b15-06t2\\desktop\\proyectosunity\\solarsystem_ar\\assets\\samples\\xr interaction toolkit\\3.3.0\\starter assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UnityGithub\\SolarSystem_AR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@4424268f6f27\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@4424268f6f27\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13798A67-88EE-10F2-BC4D-CCE90D6A3519}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|c:\\unitygithub\\solarsystem_ar\\assets\\samples\\xr interaction toolkit\\3.3.0\\starter assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13798A67-88EE-10F2-BC4D-CCE90D6A3519}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\3.3.0\\starter assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D31F5E-591C-FE47-4920-00FAF86706B7}|Assembly-CSharp.csproj|C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\assets\\mobileartemplateassets\\scripts\\artemplatemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4D31F5E-591C-FE47-4920-00FAF86706B7}|Assembly-CSharp.csproj|C:\\UnityGithub\\SolarSystem_AR\\assets\\mobileartemplateassets\\scripts\\artemplatemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D31F5E-591C-FE47-4920-00FAF86706B7}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\scripts\\artemplatemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D31F5E-591C-FE47-4920-00FAF86706B7}|Assembly-CSharp.csproj|c:\\users\\b15-06t2\\desktop\\proyectosunity\\solarsystem_ar\\assets\\scripts\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4D31F5E-591C-FE47-4920-00FAF86706B7}|Assembly-CSharp.csproj|C:\\UnityGithub\\SolarSystem_AR\\assets\\scripts\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D31F5E-591C-FE47-4920-00FAF86706B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D31F5E-591C-FE47-4920-00FAF86706B7}|Assembly-CSharp.csproj|c:\\users\\b15-06t2\\desktop\\proyectosunity\\solarsystem_ar\\assets\\mobileartemplateassets\\scripts\\goalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4D31F5E-591C-FE47-4920-00FAF86706B7}|Assembly-CSharp.csproj|C:\\UnityGithub\\SolarSystem_AR\\assets\\mobileartemplateassets\\scripts\\goalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D31F5E-591C-FE47-4920-00FAF86706B7}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\scripts\\goalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C58E71F6-02F9-BE51-D581-F00A82347B67}|Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.csproj|C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\assets\\samples\\xr interaction toolkit\\3.3.0\\ar starter assets\\scripts\\arinteractorspawntrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C58E71F6-02F9-BE51-D581-F00A82347B67}|Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.csproj|C:\\UnityGithub\\SolarSystem_AR\\assets\\samples\\xr interaction toolkit\\3.3.0\\ar starter assets\\scripts\\arinteractorspawntrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C58E71F6-02F9-BE51-D581-F00A82347B67}|Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\3.3.0\\ar starter assets\\scripts\\arinteractorspawntrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,54 +34,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "XRGrabInteractable.cs",
+              "DocumentMoniker": "C:\\UnityGithub\\SolarSystem_AR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@4424268f6f27\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@4424268f6f27\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
+              "ToolTip": "C:\\UnityGithub\\SolarSystem_AR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@4424268f6f27\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@4424268f6f27\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAPYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T19:18:05.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GoalManager.cs",
-              "DocumentMoniker": "C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\Assets\\MobileARTemplateAssets\\Scripts\\GoalManager.cs",
+              "DocumentMoniker": "C:\\UnityGithub\\SolarSystem_AR\\Assets\\MobileARTemplateAssets\\Scripts\\GoalManager.cs",
               "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\Scripts\\GoalManager.cs",
-              "ToolTip": "C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\Assets\\MobileARTemplateAssets\\Scripts\\GoalManager.cs",
+              "ToolTip": "C:\\UnityGithub\\SolarSystem_AR\\Assets\\MobileARTemplateAssets\\Scripts\\GoalManager.cs",
               "RelativeToolTip": "Assets\\MobileARTemplateAssets\\Scripts\\GoalManager.cs",
               "ViewState": "AgIAAC8BAAAAAAAAAAASwDoBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T17:48:59.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T17:48:59.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Info.cs",
-              "DocumentMoniker": "C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\Assets\\Scripts\\Info.cs",
+              "DocumentMoniker": "C:\\UnityGithub\\SolarSystem_AR\\Assets\\Scripts\\Info.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Info.cs",
-              "ToolTip": "C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\Assets\\Scripts\\Info.cs",
+              "ToolTip": "C:\\UnityGithub\\SolarSystem_AR\\Assets\\Scripts\\Info.cs",
               "RelativeToolTip": "Assets\\Scripts\\Info.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAADzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T17:47:16.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T17:47:16.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ObjectSpawner.cs",
-              "DocumentMoniker": "C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\Starter Assets\\Scripts\\ObjectSpawner.cs",
+              "DocumentMoniker": "C:\\UnityGithub\\SolarSystem_AR\\Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\Starter Assets\\Scripts\\ObjectSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\Starter Assets\\Scripts\\ObjectSpawner.cs",
-              "ToolTip": "C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\Starter Assets\\Scripts\\ObjectSpawner.cs",
+              "ToolTip": "C:\\UnityGithub\\SolarSystem_AR\\Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\Starter Assets\\Scripts\\ObjectSpawner.cs",
               "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\Starter Assets\\Scripts\\ObjectSpawner.cs",
-              "ViewState": "AgIAAOIAAAAAAAAAAAAAAPYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAN8AAAAAAAAAAIBJwPYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T16:17:59.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ARInteractorSpawnTrigger.cs",
-              "DocumentMoniker": "C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\AR Starter Assets\\Scripts\\ARInteractorSpawnTrigger.cs",
+              "DocumentMoniker": "C:\\UnityGithub\\SolarSystem_AR\\Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\AR Starter Assets\\Scripts\\ARInteractorSpawnTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\AR Starter Assets\\Scripts\\ARInteractorSpawnTrigger.cs",
-              "ToolTip": "C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\AR Starter Assets\\Scripts\\ARInteractorSpawnTrigger.cs",
+              "ToolTip": "C:\\UnityGithub\\SolarSystem_AR\\Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\AR Starter Assets\\Scripts\\ARInteractorSpawnTrigger.cs",
               "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\AR Starter Assets\\Scripts\\ARInteractorSpawnTrigger.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,16 +100,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ARTemplateMenuManager.cs",
-              "DocumentMoniker": "C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\Assets\\MobileARTemplateAssets\\Scripts\\ARTemplateMenuManager.cs",
+              "DocumentMoniker": "C:\\UnityGithub\\SolarSystem_AR\\Assets\\MobileARTemplateAssets\\Scripts\\ARTemplateMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\Scripts\\ARTemplateMenuManager.cs",
-              "ToolTip": "C:\\Users\\b15-06t2\\Desktop\\ProyectosUnity\\SolarSystem_AR\\Assets\\MobileARTemplateAssets\\Scripts\\ARTemplateMenuManager.cs",
+              "ToolTip": "C:\\UnityGithub\\SolarSystem_AR\\Assets\\MobileARTemplateAssets\\Scripts\\ARTemplateMenuManager.cs",
               "RelativeToolTip": "Assets\\MobileARTemplateAssets\\Scripts\\ARTemplateMenuManager.cs",
               "ViewState": "AgIAAJABAAAAAAAAAAASwKQBAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T16:08:55.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T16:08:55.646Z"
             }
           ]
         }
